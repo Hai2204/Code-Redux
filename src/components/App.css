@@ -1,0 +1,13 @@
+
+.uk-text-while {
+  color: #fff;
+}
+
+.uk-navbar-container:not(.uk-navbar-transparent) {
+  background: #7f7e91;
+  color: #fff !important;
+}
+.uk-background {
+  background: #7f7e91;
+  color: #fff !important;
+}

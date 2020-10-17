@@ -1,0 +1,13 @@
+.cursorPointer {
+    cursor: pointer;
+  }
+.height50{
+    height: 50px
+}
+.height150{
+    height: 100px
+}
+.uk-background-offcanvas{
+    background : url(https://inlonggia.com/wp-content/uploads/Background-cong-nghe-dep.jpg) no-repeat center center /cover;
+    color: #fff
+}

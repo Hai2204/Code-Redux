@@ -1,0 +1,23 @@
+.uk-table.tb-pay th {
+    text-align: center
+}
+.icon-pay:hover{
+    cursor : pointer;
+}
+.icon-pay  i {
+    background : #1e87f0
+}
+.icon-pay i:hover{
+    background : red;
+    -webkit-transition: background 0.4s ease-in-out;
+    transition: background 0.4s ease-in-out;
+
+}
+.marign-footer{
+    margin-left: -15px;
+}
+.uk-table th {
+    font-size: 20px;
+    font-weight: 500;
+    color : #000
+}
